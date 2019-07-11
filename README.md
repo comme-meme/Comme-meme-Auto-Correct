@@ -1,11 +1,14 @@
-# Manu Auto Correct
+# Comme meme auto correct
+Ceux ci et un répèrtoire github qui contien une applicassion pour les navigateures, il remplace les fautes d'ortografe.
+TODO:
+- Quand même -> Comme même
+- Fauteuil   -> Faux-teuille
+- J'avais    -> Javé
+- Temps      -> Tant
+- Tant       -> Temps
+- é(espasse) -> er
+- er(espasse)-> é
+- est        -> et
+- et         -> est
 
-Bon alors déjà c'est M. Le Président.
-
-![OSS 117](oss.jpg)
-
-Le meilleur moyen d'utiliser cette extension est de passer par le [Chrome Webstore](https://chrome.google.com/webstore/detail/manu-auto-correct/eamgamedjemopbnggghghnciejnbdpoe)
-
-![Manu](manu.png)
-
-Vous pouvez aussi télécharger ce dépot et le charger comme "unpacked extension" dans Chrome
+Vos idaits sont les bienvenus
